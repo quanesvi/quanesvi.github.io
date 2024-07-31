@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://quanesvi.github.io/sitemap.html.gz
+Sitemap: https://quanesvi.github.io/app/sitemap.html.gz
+Sitemap: https://quanesvi.github.io/assets/sitemap.html.gz
+Sitemap: https://quanesvi.github.io/css/sitemap.html.gz
+Sitemap: https://quanesvi.github.io/includes/sitemap.html.gz
+Sitemap: https://quanesvi.github.io/item/sitemap.html.gz
+Sitemap: https://quanesvi.github.io/src/sitemap.html.gz
